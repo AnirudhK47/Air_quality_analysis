@@ -1,2 +1,2 @@
 # Air_quality_analysis
-An exploratory analysis using air quality of Tier II cities in India
+Examining air pollution data and its causes in Tier II cities in India
